@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Bothgamer 👋
 
-<!--
-**bothgamer/bothgamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Cybersecurity Researcher** and **Software Developer**. I specialize in **penetration testing**, **ethical hacking**, and **web security**.
 
-Here are some ideas to get you started:
+## Technologies & Tools
+- 🔐 Penetration Testing
+- 💻 Kali Linux, Burp Suite, Metasploit
+- 📜 Git, GitHub
+- ⚡ Python, JavaScript, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- 📧 Email: gamerszboth@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bothgamer)
